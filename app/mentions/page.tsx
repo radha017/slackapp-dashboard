@@ -4,7 +4,7 @@ export default function Mentions() {
   return (
     <div className={styles.main}>
       <div className={styles.top}>
-        <h3>Mentions & reactions</h3>
+        <h3>Mentions & reactionss</h3>
       </div>
       <hr />
       <div>
